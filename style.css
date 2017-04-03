@@ -33,11 +33,10 @@ img {
   rigth:70%
 }
 
-
-a {
+#enlace {
   text-decoration: none;
 }
 
-ul {
+.lista-tabla {
   list-style-type: circle;
 }
