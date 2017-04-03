@@ -1,0 +1,53 @@
+head {
+
+}
+
+div {
+  background-image: url(img/6.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+
+}
+
+body {
+
+  background-image:url(img/stucco.png);
+}
+
+
+h1 {
+  font-size: 60px;
+  color: #21618C;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: white
+}
+
+h3 {
+
+  color: #5FCEDF;
+  font-size: 2em;
+}
+
+table {
+  background-color: #A0D7D8;
+  margin:auto;
+}
+
+img {
+  position: relative;
+  left: 30%;
+  rigth:70%
+}
+
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: circle;
+}
