@@ -20,10 +20,14 @@ h1 {
   color: #21618C;
   text-align: center;
 }
+body {
+
+  font-family:  'Indie Flower', cursive;
+}
 
 h2 {
   text-align: center;
-  color: white
+
 }
 
 h3 {
