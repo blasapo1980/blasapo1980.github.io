@@ -33,8 +33,9 @@ img {
   rigth:70%
 }
 
-#enlace {
+.enlace {
   text-decoration: none;
+  color:#5FCEDF
 }
 
 .lista-tabla {
