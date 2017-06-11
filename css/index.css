@@ -1,0 +1,54 @@
+.enlace {
+  text-decoration: none;
+  color: #5FCEDF; }
+
+div {
+  background-image: url(img/6.jpg);
+  background-repeat: no-repeat;
+  background-size: auto; }
+
+body {
+  font-family: "Lato", sans-serif; }
+
+h1, h2, h3 {
+  color: #312F2F;
+  font-family: "Merriweather", serif; }
+
+h1 {
+  font-size: 60px;
+  text-align: center; }
+
+h2 {
+  text-align: center; }
+
+h3 {
+  font-size: 2em; }
+
+table {
+  background-color: #A0D7D8;
+  margin: auto; }
+
+img {
+  position: relative;
+  left: 30%;
+  rigth: 70%; }
+
+.enlace {
+  text-decoration: none;
+  color: #5FCEDF; }
+
+.lista-tabla {
+  list-style-type: circle; }
+
+table {
+  background-color: #A0D7D8;
+  margin: auto; }
+
+.lista-tabla {
+  list-style-type: circle; }
+
+body {
+  color: #312F2F;
+  background-color: #BCCCE0; }
+
+/*# sourceMappingURL=index.css.map */
